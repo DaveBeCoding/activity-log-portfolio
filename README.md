@@ -2,7 +2,8 @@
 
 Branch -> homepage
 		~crypto price
-			** 
+			**
+			+corrected ada price in API 
 		~images
 			**
 		~code maintenance
