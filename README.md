@@ -15,3 +15,4 @@ Branch -> homepage
 			+start cleaning up code/data management
 		~css maintenance
 			**
+			+clean up main branch
