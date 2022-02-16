@@ -17,3 +17,4 @@ Branch -> homepage
 		~css maintenance
 			**
 			+clean up main branch
+			+clean up Home component
