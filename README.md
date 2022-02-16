@@ -4,6 +4,7 @@ Branch -> homepage
 		~crypto price
 			**
 			+corrected ada price in API 
+			+update crypto layout, name
 		~images
 			**
 			+add images for current projects
