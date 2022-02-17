@@ -5,6 +5,7 @@ Branch -> homepage
 			**
 			+corrected ada price in API 
 			+update crypto layout, name
+			+created third project, crypto search, image up
 		~images
 			**
 			+add images for current projects
