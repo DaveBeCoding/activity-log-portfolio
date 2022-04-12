@@ -23,4 +23,6 @@ Branch -> homepage
 		~Blog maintenance
 			**
 			+testing blog features,
-				once running work on authentication features
+				+modal, and button center
+				-> unique ID's for each post
+				-once running work on authentication features
